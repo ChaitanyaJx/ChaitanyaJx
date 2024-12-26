@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chaitanya</h1>
 <p align="center">
-I'm an CSE student at IIITDM Kurnool '27.
-Web Developer(MERN Stack), Open Source Contributor, and trying to learn ML and Java.
+I'm an CSE student at IIITDM Kurnool '27.<br>
+Web Developer(MERN Stack), Open Source Contributor, and trying to learn ML and Java.<br>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChaitanyaJx&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
