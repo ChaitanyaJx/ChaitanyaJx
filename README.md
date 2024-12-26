@@ -18,50 +18,95 @@
 ![HTML5](https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Redux](https://img.shields.io/badge/Redux-1a1b27?style=for-the-badge&logo=redux&logoColor=764ABC)
+![SASS](https://img.shields.io/badge/SASS-1a1b27?style=for-the-badge&logo=sass&logoColor=CC6699)
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=node.js&logoColor=43853D)
 ![Express.js](https://img.shields.io/badge/Express.js-1a1b27?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![MySQL](https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
 ### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-1a1b27?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Netlify](https://img.shields.io/badge/Netlify-1a1b27?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=white)
 </div>
 
 ## 🚀 Featured Projects
 
-### 1. [Trackflix](https://github.com/ChaitanyaJx/Trackflix)
-- **Tech Stack:** JavaScript
-- **Description:** A comprehensive movie tracking application
-- **Key Features:**
-  - Track your favorite movies
-  - Real-time updates
-  - User-friendly interface
+<div align="center">
 
-### 2. [Skill-Metrics](https://github.com/ChaitanyaJx/Skill-Metrics)
-- **Tech Stack:** JavaScript, Web Technologies
-- **Description:** Web App for Skill Metrics Platform
-- **Key Features:**
-  - Skill assessment tracking
-  - Performance metrics
-  - Interactive dashboard
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Trackflix</h3>
+<div align="center">
+<a href="https://github.com/ChaitanyaJx/Trackflix" target="_blank"><img src="https://img.shields.io/badge/CODE-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Trackflix"/></a>
+<p>
+<a href="https://github.com/ChaitanyaJx/Trackflix" target="_blank">
+<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-1a1b27?style=flat&logo=react&logoColor=61DAFB"/>
+</a>
+</p>
+<p><strong>A comprehensive movie tracking application</strong></p>
+<p>• Track your favorite movies<br>• Real-time updates<br>• User-friendly interface</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Skill-Metrics</h3>
+<div align="center">
+<a href="https://github.com/ChaitanyaJx/Skill-Metrics" target="_blank"><img src="https://img.shields.io/badge/CODE-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Skill-Metrics"/></a>
+<p>
+<a href="https://github.com/ChaitanyaJx/Skill-Metrics" target="_blank">
+<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-1a1b27?style=flat&logo=react&logoColor=61DAFB"/>
+</a>
+</p>
+<p><strong>Web App for Skill Metrics Platform</strong></p>
+<p>• Skill assessment tracking<br>• Performance metrics<br>• Interactive dashboard</p>
+</div>
+</td>
+</tr>
 
-### 3. [MoviesLand](https://github.com/ChaitanyaJx/MoviesLand)
-- **Tech Stack:** CSS, HTML, JavaScript
-- **Description:** Search for your favourite movies using this platform
-- **Key Features:**
-  - Movie search functionality
-  - Responsive design
-  - Modern UI/UX
+<tr>
+<td width="50%">
+<h3 align="center">MoviesLand</h3>
+<div align="center">
+<a href="https://github.com/ChaitanyaJx/MoviesLand" target="_blank"><img src="https://img.shields.io/badge/CODE-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="MoviesLand"/></a>
+<p>
+<a href="https://github.com/ChaitanyaJx/MoviesLand" target="_blank">
+<img src="https://img.shields.io/badge/CSS-1a1b27?style=flat&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat&logo=javascript&logoColor=F7DF1E"/>
+</a>
+</p>
+<p><strong>Search for your favourite movies platform</strong></p>
+<p>• Movie search functionality<br>• Responsive design<br>• Modern UI/UX</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Weather-App</h3>
+<div align="center">
+<a href="https://github.com/ChaitanyaJx/Weather-App" target="_blank"><img src="https://img.shields.io/badge/CODE-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Weather-App"/></a>
+<p>
+<a href="https://github.com/ChaitanyaJx/Weather-App" target="_blank">
+<img src="https://img.shields.io/badge/HTML-1a1b27?style=flat&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS-1a1b27?style=flat&logo=css3&logoColor=1572B6"/>
+</a>
+</p>
+<p><strong>Real-time weather information application</strong></p>
+<p>• Current weather data<br>• Location-based updates<br>• Clean interface</p>
+</div>
+</td>
+</tr>
+</table>
 
-### 4. [Weather-App](https://github.com/ChaitanyaJx/Weather-App)
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Description:** Real-time weather information application
-- **Key Features:**
-  - Current weather data
-  - Location-based updates
-  - Clean interface
+</div>
 
 ## 📊 GitHub Stats
 
@@ -82,11 +127,10 @@
 ---
 
 <p align="center">
-  <!-- Add your actual LinkedIn and email here -->
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/chaitanya-jambhulkar-895991229/">
     <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:chaitanyajambhulkar768@gmail.com">
     <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email"/>
   </a>
 </p>
