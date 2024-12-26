@@ -1,110 +1,106 @@
 <h1 align="center">Hi 👋, I'm Chaitanya</h1>
 <p align="center">
-I'm an CSE student at IIITDM Kurnool '27.<br>
-Web Developer(MERN Stack), Open Source Contributor, and trying to learn ML and Java.<br>
+CSE student at IIITDM Kurnool '27<br>
+Full Stack Developer | Open Source Contributor | Tech Enthusiast
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChaitanyaJx&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-## 💻 Tech Stack & Skills
+## 💻 Core Skills
 
 <div align="center">
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=1572B6)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Redux](https://img.shields.io/badge/Redux-1a1b27?style=for-the-badge&logo=redux&logoColor=764ABC)
-![SASS](https://img.shields.io/badge/SASS-1a1b27?style=for-the-badge&logo=sass&logoColor=CC6699)
+### Programming Languages & Core CS
+![C++](https://img.shields.io/badge/C++-1a1b27?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=java&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=3776AB)
+![DSA](https://img.shields.io/badge/DSA-1a1b27?style=for-the-badge&logo=thealgorithms&logoColor=white)
 
-### Backend Development
+### Web Development
+#### Frontend
+![React](https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-1a1b27?style=for-the-badge&logo=redux&logoColor=764ABC)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![NextUI](https://img.shields.io/badge/NextUI-1a1b27?style=for-the-badge&logo=next.js&logoColor=white)
+
+#### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=node.js&logoColor=43853D)
 ![Express.js](https://img.shields.io/badge/Express.js-1a1b27?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![MySQL](https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Firebase](https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
-### Tools & Deployment
-![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-1a1b27?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Netlify](https://img.shields.io/badge/Netlify-1a1b27?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+#### Deployment & Tools
 ![Vercel](https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-1a1b27?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
+### Data Science & ML
+![NumPy](https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=150458)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-1a1b27?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+
 </div>
 
 ## 🚀 Featured Projects
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Trackflix</h3>
+<h3 align="center"><a href="https://github.com/ChaitanyaJx/Trackflix" target="_blank">Trackflix</a></h3>
 <div align="center">
 <a href="https://github.com/ChaitanyaJx/Trackflix" target="_blank"><img src="https://img.shields.io/badge/CODE-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Trackflix"/></a>
 <p>
-<a href="https://github.com/ChaitanyaJx/Trackflix" target="_blank">
-<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React-1a1b27?style=flat&logo=react&logoColor=61DAFB"/>
-</a>
+<img src="https://img.shields.io/badge/Next.js-1a1b27?style=flat&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-1a1b27?style=flat&logo=tailwind-css&logoColor=38B2AC"/>
 </p>
-<p><strong>A comprehensive movie tracking application</strong></p>
-<p>• Track your favorite movies<br>• Real-time updates<br>• User-friendly interface</p>
+<p><strong>Comprehensive Movie Tracking Platform</strong></p>
+<p>• Full-stack Next.js application with TailwindCSS<br>• Real-time movie tracking and updates<br>• OAuth authentication & personalized watchlists</p>
 </div>
 </td>
 <td width="50%">
-<h3 align="center">Skill-Metrics</h3>
+<h3 align="center"><a href="https://github.com/ChaitanyaJx/Skill-Metrics" target="_blank">Skill-Metrics</a></h3>
 <div align="center">
 <a href="https://github.com/ChaitanyaJx/Skill-Metrics" target="_blank"><img src="https://img.shields.io/badge/CODE-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Skill-Metrics"/></a>
 <p>
-<a href="https://github.com/ChaitanyaJx/Skill-Metrics" target="_blank">
-<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React-1a1b27?style=flat&logo=react&logoColor=61DAFB"/>
-</a>
+<img src="https://img.shields.io/badge/NextUI-1a1b27?style=flat&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-1a1b27?style=flat&logo=redux&logoColor=764ABC"/>
 </p>
-<p><strong>Web App for Skill Metrics Platform</strong></p>
-<p>• Skill assessment tracking<br>• Performance metrics<br>• Interactive dashboard</p>
+<p><strong>AI-Powered Skill Assessment Platform</strong></p>
+<p>• NextUI components with Redux state management<br>• Interactive performance analytics<br>• Personalized learning paths</p>
 </div>
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<h3 align="center">MoviesLand</h3>
+<h3 align="center"><a href="https://github.com/ChaitanyaJx/MoviesLand" target="_blank">MoviesLand</a></h3>
 <div align="center">
 <a href="https://github.com/ChaitanyaJx/MoviesLand" target="_blank"><img src="https://img.shields.io/badge/CODE-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="MoviesLand"/></a>
 <p>
-<a href="https://github.com/ChaitanyaJx/MoviesLand" target="_blank">
-<img src="https://img.shields.io/badge/CSS-1a1b27?style=flat&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat&logo=javascript&logoColor=F7DF1E"/>
-</a>
+<img src="https://img.shields.io/badge/React-1a1b27?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vercel-1a1b27?style=flat&logo=vercel&logoColor=white"/>
 </p>
-<p><strong>Search for your favourite movies platform</strong></p>
-<p>• Movie search functionality<br>• Responsive design<br>• Modern UI/UX</p>
+<p><strong>Modern Movie Discovery Platform</strong></p>
+<p>• Advanced search algorithms<br>• Real-time movie recommendations<br>• Deployed on Vercel with automatic CI/CD</p>
 </div>
 </td>
 <td width="50%">
-<h3 align="center">Weather-App</h3>
+<h3 align="center"><a href="https://github.com/ChaitanyaJx/Weather-App" target="_blank">Weather-App</a></h3>
 <div align="center">
 <a href="https://github.com/ChaitanyaJx/Weather-App" target="_blank"><img src="https://img.shields.io/badge/CODE-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Weather-App"/></a>
 <p>
-<a href="https://github.com/ChaitanyaJx/Weather-App" target="_blank">
-<img src="https://img.shields.io/badge/HTML-1a1b27?style=flat&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS-1a1b27?style=flat&logo=css3&logoColor=1572B6"/>
-</a>
+<img src="https://img.shields.io/badge/React-1a1b27?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Netlify-1a1b27?style=flat&logo=netlify&logoColor=00C7B7"/>
 </p>
-<p><strong>Real-time weather information application</strong></p>
-<p>• Current weather data<br>• Location-based updates<br>• Clean interface</p>
+<p><strong>Cross-platform Weather Application</strong></p>
+<p>• Real-time weather data integration<br>• Location-based forecasting<br>• Deployed on Netlify with continuous deployment</p>
 </div>
 </td>
 </tr>
 </table>
-
 </div>
 
 ## 📊 GitHub Stats
