@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Chaitanya</h1>
-
-<div align="center">
-  <img src="https://pronoun.cyou/x/y?subject=He" alt="he/him">
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChaitanyaJx&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
