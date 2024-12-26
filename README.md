@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chaitanya</h1>
 <p align="center">
 CSE student at IIITDM Kurnool '27<br>
-Full Stack Developer | Open Source Contributor | Tech Enthusiast
-You can contact me at ``darkcloudinsky`` on Discord for projects.
+Full Stack Developer | Open Source Contributor | Tech Enthusiast<br>
+You can contact me at <b>darkcloudinsky</b> on Discord for projects.
 </p>
 
 <p align="center">
