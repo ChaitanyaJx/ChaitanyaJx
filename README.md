@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there! I'm Chaitanya 👋</h1>
 
 <!-- Real-time GitHub Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
