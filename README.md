@@ -44,66 +44,6 @@ You can contact me at <b>darkcloudinsky</b> on Discord for projects.
 
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center"><a href="https://github.com/ChaitanyaJx/Trackflix" target="_blank">Trackflix</a></h3>
-<div align="center">
-<a href="https://github.com/ChaitanyaJx/Trackflix" target="_blank"><img src="https://img.shields.io/badge/CODE-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Trackflix"/></a>
-<p>
-<img src="https://img.shields.io/badge/Next.js-1a1b27?style=flat&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-1a1b27?style=flat&logo=tailwind-css&logoColor=38B2AC"/>
-</p>
-<p><strong>Comprehensive Movie Tracking Platform</strong></p>
-<p>• Full-stack Next.js application with TailwindCSS<br>• Real-time movie tracking and updates<br>• OAuth authentication & personalized watchlists</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center"><a href="https://github.com/ChaitanyaJx/Skill-Metrics" target="_blank">Skill-Metrics</a></h3>
-<div align="center">
-<a href="https://github.com/ChaitanyaJx/Skill-Metrics" target="_blank"><img src="https://img.shields.io/badge/CODE-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Skill-Metrics"/></a>
-<p>
-<img src="https://img.shields.io/badge/NextUI-1a1b27?style=flat&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-1a1b27?style=flat&logo=redux&logoColor=764ABC"/>
-</p>
-<p><strong>AI-Powered Skill Assessment Platform</strong></p>
-<p>• NextUI components with Redux state management<br>• Interactive performance analytics<br>• Personalized learning paths</p>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center"><a href="https://github.com/ChaitanyaJx/MoviesLand" target="_blank">MoviesLand</a></h3>
-<div align="center">
-<a href="https://github.com/ChaitanyaJx/MoviesLand" target="_blank"><img src="https://img.shields.io/badge/CODE-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="MoviesLand"/></a>
-<p>
-<img src="https://img.shields.io/badge/React-1a1b27?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vercel-1a1b27?style=flat&logo=vercel&logoColor=white"/>
-</p>
-<p><strong>Modern Movie Discovery Platform</strong></p>
-<p>• Advanced search algorithms<br>• Real-time movie recommendations<br>• Deployed on Vercel with automatic CI/CD</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center"><a href="https://github.com/ChaitanyaJx/Weather-App" target="_blank">Weather-App</a></h3>
-<div align="center">
-<a href="https://github.com/ChaitanyaJx/Weather-App" target="_blank"><img src="https://img.shields.io/badge/CODE-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Weather-App"/></a>
-<p>
-<img src="https://img.shields.io/badge/React-1a1b27?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Netlify-1a1b27?style=flat&logo=netlify&logoColor=00C7B7"/>
-</p>
-<p><strong>Cross-platform Weather Application</strong></p>
-<p>• Real-time weather data integration<br>• Location-based forecasting<br>• Deployed on Netlify with continuous deployment</p>
-</div>
-</td>
-</tr>
-</table>
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
