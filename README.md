@@ -36,12 +36,6 @@ You can contact me at <b>darkcloudinsky</b> on Discord for projects.
 ![Vercel](https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-1a1b27?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
-### Data Science & ML
-![NumPy](https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=150458)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-1a1b27?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-
 </div>
 
 ## 📊 GitHub Stats
